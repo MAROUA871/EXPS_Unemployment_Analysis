@@ -6,6 +6,12 @@ This project was completed as part of my internship at **EXPERT PETROLEUM SERVIC
 
 The objective of this project is to analyze unemployment trends across U.S. states and selected geographic areas using Python. The analysis covers data cleaning, validation, exploratory data analysis (EDA), historical trends, geographic differences, seasonal patterns, and the impact of the COVID-19 pandemic.
 
+## View the Analysis
+
+You can view and run the complete analysis directly in Google Colab:
+
+[Open the Unemployment Analysis Notebook in Google Colab](https://colab.research.google.com/github/MAROUA871/EXPS_Unemployment_Analysis/blob/main/notebooks/unemployment_analysis.ipynb)
+
 ---
 
 ## Project Objectives
